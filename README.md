@@ -32,7 +32,7 @@ User will be able to write and save notes via the application. The app saves use
 
 ---
 
-## Deployed Link:
+## Deployed Link: https://elaine-note-taker-b83fe2db7817.herokuapp.com/
 
 
  ## License
